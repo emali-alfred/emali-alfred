@@ -13,19 +13,24 @@ I turn survey and field data into clear, decision-ready insights, focusing on ag
 
 ---
 
-##  What I can do for you
+## What I Can Do for You
 
-| Service | What you get |
+### Agricultural, Gender & Socioeconomic Research
+| Service | What You Get |
 | --- | --- |
-| **Survey & field data analysis** | Cleaning, weighting, descriptive and inferential analysis of household and farm surveys |
-| **Impact & policy evaluation** | Regression, panel and quasi-experimental methods (e.g. DiD, PSM) with plain-language write-ups |
-| **Gender & socioeconomic analysis** | Gender-disaggregated indicators, livelihood and wellbeing indices |
-| **Dashboards & reporting** | Interactive dashboards and donor-ready reports and visuals |
-| **Data pipelines & automation** | Reproducible Python scripts that replace manual spreadsheet work |
-| **Machine learning (applied)** | Prediction and classification models for yield, adoption or risk, explained clearly |
-| **Model simulation** | Scenario and policy simulations (e.g. economic, farm-household and livestock models) to test "what if" questions before decisions are made |
-| **Prompt engineering** | Well-structured prompts, system instructions and prompt templates that get accurate, consistent output from AI models |
-| **AI response review & evaluation** | Rating and correcting AI model outputs for accuracy, reasoning, safety and instruction-following, with clear written feedback |
+| **Survey & field data systems** | Digital tool programming (KoboToolbox, ODK), data quality checks, cleaning, weighting, and descriptive/inferential statistics |
+| **Qualitative research** | End-to-end qualitative workflows: designing FGD/KII guides, supervising transcription, and thematic coding in NVivo and ATLAS.ti |
+| **Gender & adoption studies** | Intra-household decision-making analysis, gender-disaggregated livelihood indices, and technology adoption modeling |
+| **Econometrics & choice modeling** | Impact evaluation (DiD, PSM, panel regressions) and stated-preference analysis (DCE, Willingness-to-Pay in NLOGIT, Stata, and R) |
+| **Spatial mapping & reporting** | QGIS study-area maps, interactive Power BI dashboards, and polished technical reports typeset in LaTeX |
+
+### Data Science & AI Systems
+| Service | What You Get |
+| --- | --- |
+| **Data pipelines & automation** | Reproducible Python and R scripts that automate cleaning, merging, and recurring reporting |
+| **Applied ML & simulations** | Classification/prediction models (adoption, yield, risk) and bio-economic "what-if" scenario simulations |
+| **Prompt engineering** | Structured prompts, system instructions, and evaluation rubrics that produce consistent, domain-accurate AI outputs |
+| **AI response evaluation** | Auditing and grading LLM responses for factual accuracy, multi-step reasoning, safety, and adherence to complex constraints |
 
 ## Tools
 
