@@ -5,7 +5,7 @@
 I turn survey and field data into clear, decision-ready insights, focusing on agriculture, livestock systems, gender, and socioeconomic research in East Africa. 
 
 * **Gender & Livestock Research:** Graduate Fellow at the **International Livestock Research Institute (ILRI)** and MSc researcher at the **University of Nairobi**. I examine intra-household decision-making, gender roles, and willingness to pay for livestock health technologies across diverse production systems.
-* **Mixed-Methods Execution:** I manage the full research cycle—from designing gender-responsive study tools (ODK, KoboToolbox) and leading field data collection (FGDs, KIIs, IDIs) to qualitative thematic coding (**NVivo**, **ATLAS.ti**) and econometric modeling (**R**, **Stata**, **NLOGIT**).
+* **Mixed-Methods Execution:** I manage the full research cycle; from designing gender-responsive study tools (ODK, KoboToolbox) and leading field data collection (FGDs, KIIs, IDIs) to qualitative thematic coding (**NVivo**, **ATLAS.ti**) and econometric modeling (**R**, **Stata**, **NLOGIT**).
 * **AI & Data Evaluation:** Alongside my research, I engineer prompts, run model simulations, and evaluate AI responses for data quality and reasoning accuracy. 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-alfred--kombo-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alfred-kombo)
 [![Email](https://img.shields.io/badge/Email-emalialfred8%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:emalialfred8@gmail.com)
