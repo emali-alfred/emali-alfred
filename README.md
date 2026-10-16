@@ -9,7 +9,7 @@ I turn survey and field data into clear, decision-ready insights, focusing on ag
 * **AI & Data Evaluation:** Alongside my research, I engineer prompts, run model simulations, and evaluate AI responses for data quality and reasoning accuracy. 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-alfred--kombo-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alfred-kombo)
 [![Email](https://img.shields.io/badge/Email-emalialfred8%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:emalialfred8@gmail.com)
-![Open to roles](https://img.shields.io/badge/Open%20to-freelance%20projects-2ea44f)
+
 
 ---
 
