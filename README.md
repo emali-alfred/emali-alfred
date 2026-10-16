@@ -40,6 +40,10 @@ Graduate Fellow at **ILRI** · University of Nairobi.
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
 ![KoboToolbox / ODK](https://img.shields.io/badge/KoboToolbox%20%2F%20ODK-1F3A5F)
 
+## 📂 Featured projects
+
+- **[kobo-survey-cleaner](https://github.com/emali-alfred/kobo-survey-cleaner)**: cleans raw KoboToolbox/ODK survey exports in one command (duplicates, missing codes, multi-select answers, labels) and writes a data quality report that flags outliers and logic errors for follow-up. *Python · pandas*
+
 ## 🔬 Research interests
 
 Livestock value chains · Gender and women's empowerment in agriculture · Smallholder
