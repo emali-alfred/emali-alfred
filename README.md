@@ -19,9 +19,9 @@ I turn survey and field data into clear, decision-ready insights, focusing on ag
 | Service | What You Get |
 | --- | --- |
 | **Survey & field data systems** | Digital tool programming (KoboToolbox, ODK), data quality checks, cleaning, weighting, and descriptive/inferential statistics |
-| **Qualitative research** | End-to-end qualitative workflows: designing FGD/KII guides, supervising transcription, and thematic coding in NVivo and ATLAS.ti |
+| **Qualitative research** | End-to-end qualitative workflows on gender sensitive topics: designing FGD/IID/KII guides, supervising data collection (facilitation, probing & note-taking)transcription, and thematic coding in NVivo and ATLAS.ti and scientific writing|
 | **Gender & adoption studies** | Intra-household decision-making analysis, gender-disaggregated livelihood indices, and technology adoption modeling |
-| **Econometrics & choice modeling** | Impact evaluation (DiD, PSM, panel regressions) and stated-preference analysis (DCE, Willingness-to-Pay in NLOGIT, Stata, and R) |
+| **Econometrics & choice modeling** | Impact evaluation (DiD, PSM, time series & panel regressions) and stated-preference analysis (DCE, Willingness-to-Pay in NLOGIT, Stata, and R) |
 | **Spatial mapping & reporting** | QGIS study-area maps, interactive Power BI dashboards, and polished technical reports typeset in LaTeX |
 
 ### Data Science & AI Systems
