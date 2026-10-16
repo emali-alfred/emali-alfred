@@ -1,4 +1,4 @@
-# Hi, I'm Alfred Kombo Emali
+# Hi, I'm Alfred Emali
 
 **Agricultural & Applied Economist · Gender Research Expert · Data Analyst · AI Evaluator · Nairobi, Kenya**
 
