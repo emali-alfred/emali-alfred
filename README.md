@@ -1,4 +1,4 @@
-# Hi, I'm Alfred Kombo Emali 👋
+# Hi, I'm Alfred Kombo Emali
 
 **Agricultural & Applied Economist · Data Analyst · AI Prompt Engineer & Evaluator · Nairobi, Kenya**
 
@@ -14,7 +14,7 @@ Graduate Fellow at **ILRI** · University of Nairobi.
 
 ---
 
-## 🧰 What I can do for you
+##  What I can do for you
 
 | Service | What you get |
 | --- | --- |
@@ -28,7 +28,7 @@ Graduate Fellow at **ILRI** · University of Nairobi.
 | **Prompt engineering** | Well-structured prompts, system instructions and prompt templates that get accurate, consistent output from AI models |
 | **AI response review & evaluation** | Rating and correcting AI model outputs for accuracy, reasoning, safety and instruction-following, with clear written feedback |
 
-## 🛠️ Tools
+##  Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white)
@@ -40,17 +40,17 @@ Graduate Fellow at **ILRI** · University of Nairobi.
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
 ![KoboToolbox / ODK](https://img.shields.io/badge/KoboToolbox%20%2F%20ODK-1F3A5F)
 
-## 📂 Featured projects
+##  Featured projects
 
 - **[kobo-survey-cleaner](https://github.com/emali-alfred/kobo-survey-cleaner)**: cleans raw KoboToolbox/ODK survey exports in one command (duplicates, missing codes, multi-select answers, labels) and writes a data quality report that flags outliers and logic errors for follow-up. *Python · pandas*
 
-## 🔬 Research interests
+##  Research interests
 
 Livestock value chains · Gender and women's empowerment in agriculture · Smallholder
 livelihoods · Climate resilience · Agricultural policy in East Africa
 
 ---
 
-📫 **Have a dataset or a research question?** Message me on
+ **Have a dataset or a research question?** Message me on
 [LinkedIn](https://www.linkedin.com/in/alfred-kombo) or [email me](mailto:emalialfred8@gmail.com).
 I usually reply within 24 hours.
