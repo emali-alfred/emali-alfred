@@ -2,26 +2,26 @@
 
 **Agricultural & Applied Economist · Gender Research Expert · Data Analyst · AI Evaluator · Nairobi, Kenya**
 
-I turn survey and field data into clear, decision-ready insights, focusing on agriculture, livestock systems, gender, and socioeconomic research in East Africa. 
+I am an agricultural and applied economist blending quantitative modeling with qualitative gender analysis. I specialize in turning complex field data into actionable socioeconomic insights to advance agricultural development, with a focus on livestock systems.
 
-* **Gender & Livestock Research:** Graduate Fellow at the **International Livestock Research Institute (ILRI)** and MSc researcher at the **University of Nairobi**. I examine intra-household decision-making, gender roles, and willingness to pay for livestock health technologies across diverse production systems.
-* **Mixed-Methods Execution:** I manage the full research cycle; from designing gender-responsive study tools (ODK, KoboToolbox) and leading field data collection (FGDs, KIIs, IDIs) to qualitative thematic coding (**NVivo**, **ATLAS.ti**) and econometric modeling (**R**, **Stata**, **NLOGIT**).
-* **AI & Data Evaluation:** Alongside my research, I engineer prompts, run model simulations, and evaluate AI responses for data quality and reasoning accuracy. 
+* **Gender & Livestock Research:** Graduate Fellow at the **International Livestock Research Institute (ILRI)** and MSc researcher at the **University of Nairobi**. I examine intra-household decision-making, gender roles, willingness to pay and adoption potential for livestock health technologies across diverse production systems.
+* **Mixed-Methods Execution:** I manage the full research cycle; from designing gender-responsive study tools (qualitative study guides, ODK, KoboToolbox) and leading field data collection (household surveys, FGDs, KIIs, IDIs) to qualitative thematic coding (**NVivo**, **ATLAS.ti**) and econometric modeling (**Advanced Excel**, **R**, **Stata**, **NLOGIT**).
+* **AI & Data Intergration:** Alongside my research, I intergrate Machine Learning skills, run model simulations, and evaluate AI responses for data quality and reasoning accuracy. 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-alfred--kombo-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alfred-kombo)
 [![Email](https://img.shields.io/badge/Email-emalialfred8%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:emalialfred8@gmail.com)
 
 
 ---
 
-## What I Can Do for You
+## What I Do:
 
 ### Agricultural, Gender & Socioeconomic Research
 | Service | What You Get |
 | --- | --- |
 | **Survey & field data systems** | Digital tool programming (KoboToolbox, ODK), data quality checks, cleaning, weighting, and descriptive/inferential statistics |
 | **Qualitative research** | End-to-end qualitative workflows on gender sensitive topics: designing FGD/IID/KII guides, supervising data collection (facilitation, probing & note-taking)transcription, and thematic coding in NVivo and ATLAS.ti and scientific writing|
-| **Gender & adoption studies** | Intra-household decision-making analysis, gender-disaggregated livelihood indices, and technology adoption modeling |
-| **Econometrics & choice modeling** | Impact evaluation (DiD, PSM, time series & panel regressions) and stated-preference analysis (DCE, Willingness-to-Pay in NLOGIT, Stata, and R) |
+| **Gender & adoption studies** | Intra-household decision-making analysis, gender-disaggregated livelihood indices, WELI analysis, and technology adoption modeling |
+| **Econometrics** | Impact evaluation (DiD, PSM, ESR, time series & panel regressions, cross-sectional analysis and modelling,  and stated-preference analysis (DCE, Willingness-to-Pay in NLOGIT, Stata, and R) |
 | **Spatial mapping & reporting** | QGIS study-area maps, interactive Power BI dashboards, and polished technical reports typeset in LaTeX |
 
 ### Data Science & AI Systems
@@ -49,9 +49,9 @@ I turn survey and field data into clear, decision-ready insights, focusing on ag
 ![KoboToolbox / ODK](https://img.shields.io/badge/KoboToolbox%20%2F%20ODK-1F3A5F)
 ![QGIS](https://img.shields.io/badge/QGIS-589632?logo=qgis&logoColor=white)
 
-**BI & Reporting**  
+**Dashboards & Reporting**  
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white)
+![Advanced Excel](https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white)
 
 **Academic Writing & Reference Management**  
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white)
@@ -65,7 +65,7 @@ I turn survey and field data into clear, decision-ready insights, focusing on ag
 ##  Research interests
 
 Livestock health and innovations · Gender roles, norms and women's empowerment in agriculture · Smallholder
-livelihoods · Climate resilience · Agricultural policy in East Africa . Choice experiments
+livelihoods · Climate resilience · Agricultural policy in SSA . Choice experiments
 
 ---
 
